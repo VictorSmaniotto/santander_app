@@ -1,6 +1,6 @@
 # santander_app
 
-A new Flutter project.
+Projeto desenvolvido em Flutter recriando a interface do aplicativo Santander.
 
 ## Getting Started
 
